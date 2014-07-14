@@ -74,6 +74,8 @@ namespace DxlibCs
             DX.SetDrawScreen(DX.DX_SCREEN_BACK);
 
             Console.WriteLine("ぬわああああ");
+            
+            Console.WriteLine("あべし");
             while (DX.ProcessMessage() == 0 && DX.ClearDrawScreen() == 0){
                 fps.Update();	//計算
 

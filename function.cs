@@ -7,6 +7,7 @@ using DxLibDLL;
 
 namespace DxlibCs
 {
+    //色々便利関数
     class function
     {
         //funcs
